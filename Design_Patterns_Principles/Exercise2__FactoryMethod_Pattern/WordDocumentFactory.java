@@ -1,3 +1,4 @@
+package Design_Patterns_Principles.Exercise2__FactoryMethod_Pattern;
 public class WordDocumentFactory extends DocumentFactory {
 
     @Override
